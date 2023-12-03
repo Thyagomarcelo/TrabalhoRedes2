@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "0O/KYd8hWzZkJBsiLgq68bNGL/45Vbs7z9EU5qN/y3c=",
+  "Source": "ApiLimiteAgua",
+  "BasePath": "_content/ApiLimiteAgua",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ApiLimiteAgua\\wwwroot",
+      "Source": "ApiLimiteAgua",
+      "ContentRoot": "D:\\TesteDownload\\TrabalhoRedes2-main\\ApiLimiteAgua\\ApiLimiteAgua\\wwwroot\\",
+      "BasePath": "_content/ApiLimiteAgua",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\TesteDownload\\TrabalhoRedes2-main\\ApiLimiteAgua\\ApiLimiteAgua\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "SourceId": "ApiLimiteAgua",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TesteDownload\\TrabalhoRedes2-main\\ApiLimiteAgua\\ApiLimiteAgua\\wwwroot\\",
+      "BasePath": "_content/ApiLimiteAgua",
+      "RelativePath": "js/signalr/dist/browser/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Identity": "D:\\TesteDownload\\TrabalhoRedes2-main\\ApiLimiteAgua\\ApiLimiteAgua\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "SourceId": "ApiLimiteAgua",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TesteDownload\\TrabalhoRedes2-main\\ApiLimiteAgua\\ApiLimiteAgua\\wwwroot\\",
+      "BasePath": "_content/ApiLimiteAgua",
+      "RelativePath": "js/signalr/dist/browser/signalr.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js"
+    }
+  ]
+}
